@@ -14,10 +14,10 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Rick Dangerous (XRick) 021212-Dev</summary>
-		<description lang="en_GB">XRick is an open source implementation of the legendary game &#34;Rick Dangerous&#34;.</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.xrick</source>
+		<summary lang="en_GB">Rick Dangerous (XRick) 021212-Dev</summary>
+		<description lang="en_GB">XRick is an open source implementation of the legendary game &#34;Rick Dangerous&#34;.</description>
 	</extension>
 </addon>
