@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.xrick"
 		name="Rick Dangerous (XRick)"
-		version="0.21212.0.8"
+		version="0.21212.0.9"
 		provider-name="">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -19,6 +19,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.xrick</source>
 		<summary lang="en_GB">Rick Dangerous (XRick) 021212-Dev</summary>
-		<description lang="en_GB">XRick is an open source implementation of the legendary game &quot;Rick Dangerous&quot;.</description>
+		<description lang="en_GB">XRick is an open source implementation of the legendary game &#34;Rick Dangerous&#34;.</description>
 	</extension>
 </addon>
