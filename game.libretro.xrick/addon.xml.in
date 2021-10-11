@@ -19,6 +19,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.xrick</source>
 		<summary lang="en_GB">Rick Dangerous (XRick) 021212-Dev</summary>
-		<description lang="en_GB">XRick is an open source implementation of the legendary game \&amp;#39;Rick Dangerous\&amp;#39;.</description>
+		<description lang="en_GB">XRick is an open source implementation of the legendary game \&#39;Rick Dangerous\&#39;.</description>
 	</extension>
 </addon>
