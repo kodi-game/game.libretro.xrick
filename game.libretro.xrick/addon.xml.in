@@ -20,6 +20,6 @@
 		<source>https://github.com/kodi-game/game.libretro.xrick</source>
 		<summary lang="en_GB">Rick Dangerous (XRick) 021212-Dev</summary>
 		<description lang="da_DK">XRick er en open source-implementering af det legendariske spil &quot;Rick Dangerous&quot;.</description>
-		<description lang="en_GB">XRick is an open source implementation of the legendary game &quot;Rick Dangerous&quot;.</description>
+		<description lang="en_GB">XRick is an open source implementation of the legendary game Rick Dangerous.</description>
 	</extension>
 </addon>
