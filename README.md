@@ -4,6 +4,9 @@
 # Rick Dangerous (XRick)
 
 ### Description
-XRick is an open source implementation of the legendary game "Rick Dangerous".
+XRick is an open source implementation of the legendary game Rick Dangerous.
 
-You can view a list of Libretro cores that have been ported to Kodi at the [Game add-ons - Libretro cores](https://kodi.wiki/view/Game_add-ons#Libretro_cores) wiki article.
+### License
+GPLv3
+
+
