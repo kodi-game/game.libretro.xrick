@@ -22,5 +22,5 @@ msgid "Rick Dangerous (XRick) 021212-Dev"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "XRick is an open source implementation of the legendary game Rick Dangerous."
+msgid "XRick is an open source implementation of the legendary game [I]Rick Dangerous[/I]."
 msgstr "XRick er en open source-implementering af det legendariske spil \"Rick Dangerous\"."
