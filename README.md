@@ -4,9 +4,21 @@
 # Rick Dangerous (XRick)
 
 ### Description
-XRick is an open source implementation of the legendary game Rick Dangerous.
+
+XRick is an open source implementation of the legendary game *Rick Dangerous*.
 
 ### License
+
 GPLv3
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
