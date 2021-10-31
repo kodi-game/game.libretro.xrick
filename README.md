@@ -13,12 +13,12 @@ GPLv3
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.xrick/resources/icon.png)
 
 ### Fanart
 
-Help make me fanart!
+![Fanart](game.libretro.xrick/resources/fanart.jpg)
 
 ### Screenshots
 
-Help make me screenshots!
+![Screenshot](game.libretro.xrick/resources/screenshot-01.jpg)
