@@ -1,0 +1,25 @@
+From 963224e21d1365c00d25a05009e17eda3f013e2c Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 28 Oct 2021 17:00:44 -0700
+Subject: [PATCH] Remove "*" from valid extensions
+
+---
+ libretro/core/libretro-core.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/libretro/core/libretro-core.c b/libretro/core/libretro-core.c
+index e24d687..0238dd9 100644
+--- a/libretro/core/libretro-core.c
++++ b/libretro/core/libretro-core.c
+@@ -155,7 +155,7 @@ void retro_get_system_info(struct retro_system_info *info)
+    memset(info, 0, sizeof(*info));
+    info->library_name     = "xrick";
+    info->library_version  = "021212-Dev";
+-   info->valid_extensions = "*|zip";
++   info->valid_extensions = "zip";
+    info->need_fullpath    = true;
+    info->block_extract    = true;
+ }
+-- 
+2.30.2
+
