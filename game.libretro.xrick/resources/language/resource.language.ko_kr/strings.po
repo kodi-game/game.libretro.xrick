@@ -24,3 +24,23 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "XRick is an open source implementation of the legendary game [I]Rick Dangerous[/I]."
 msgstr "XRick은 전설적인 게임 [I]Rick Dangerous[/I]의 오픈 소스 구현입니다."
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Crop Borders"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Cheat: Trainer Mode"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Cheat: Invulnerability Mode"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Cheat: Expose Mode"
+msgstr ""
