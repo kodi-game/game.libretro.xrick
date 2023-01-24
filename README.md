@@ -13,12 +13,12 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.xrick/resources/icon.png)
+![Rick Dangerous (XRick) icon](game.libretro.xrick/resources/icon.png)
 
 ### Fanart
 
-![Fanart](game.libretro.xrick/resources/fanart.jpg)
+![Rick Dangerous (XRick) fanart](game.libretro.xrick/resources/fanart.jpg)
 
 ### Screenshots
 
-![Screenshot](game.libretro.xrick/resources/screenshot-01.jpg)
+![Rick Dangerous (XRick) screenshot](game.libretro.xrick/resources/screenshot-01.jpg)
