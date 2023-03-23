@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Rick Dangerous (XRick) 021212-Dev"
+msgid "Rick Dangerous (XRick)"
 msgstr ""
 
 msgctxt "Addon Description"
