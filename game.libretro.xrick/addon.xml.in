@@ -23,6 +23,7 @@
 			<fanart>resources/fanart.jpg</fanart>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Rick Dangerous (XRick)</summary>
 		<summary lang="en_GB">Rick Dangerous (XRick)</summary>
 		<summary lang="es_ES">Rick Dangerous (XRick)</summary>
 		<description lang="ast_ES">XRick ye una implementación de códigu abiertu del xuegu llexendariu [I]Rick Dangerous[/I].</description>
