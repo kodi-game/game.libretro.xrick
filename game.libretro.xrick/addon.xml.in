@@ -26,12 +26,13 @@
 		<summary lang="da_DK">Rick Dangerous (XRick)</summary>
 		<summary lang="en_GB">Rick Dangerous (XRick)</summary>
 		<summary lang="es_ES">Rick Dangerous (XRick)</summary>
+		<summary lang="zh_CN">步步杀机（XRick）</summary>
 		<description lang="ast_ES">XRick ye una implementación de códigu abiertu del xuegu llexendariu [I]Rick Dangerous[/I].</description>
 		<description lang="da_DK">XRick er en open source-implementering af det legendariske spil [I]Rick Dangerous[/I].</description>
 		<description lang="de_DE">XRick ist eine quelloffene Implementierung des legendären Spiels [I]Rick Dangerous[/I].</description>
 		<description lang="en_GB">XRick is an open source implementation of the legendary game [I]Rick Dangerous[/I].</description>
 		<description lang="es_ES">XRick es una implementación de código abierto del legendario juego [I]Rick Dangerous[/I].</description>
 		<description lang="ko_KR">XRick은 전설적인 게임 [I]Rick Dangerous[/I]의 오픈 소스 구현입니다.</description>
-		<description lang="zh_CN">XRick 是传奇游戏[I]《Rick Danger》[/I]的开源实现。</description>
+		<description lang="zh_CN">XRick 是传奇游戏[I]《步步杀机（Rick Danger）》[/I]的开源实现。</description>
 	</extension>
 </addon>
