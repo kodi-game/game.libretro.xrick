@@ -24,9 +24,7 @@ msgctxt "Addon Description"
 msgid "XRick is an open source implementation of the legendary game [I]Rick Dangerous[/I]."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
+# Empty string with ID 30000
 
 msgctxt "#30001"
 msgid "Crop Borders"
