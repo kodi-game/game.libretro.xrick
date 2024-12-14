@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "XRick is an open source implementation of the legendary game [I]Rick Dangerous[/I]."
 msgstr "XRick 是传奇游戏[I]《步步杀机（Rick Danger）》[/I]的开源实现。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Crop Borders"
 msgstr "裁剪边框"
@@ -44,3 +40,7 @@ msgstr "作弊：无敌模式"
 msgctxt "#30004"
 msgid "Cheat: Expose Mode"
 msgstr "作弊：暴露模式"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

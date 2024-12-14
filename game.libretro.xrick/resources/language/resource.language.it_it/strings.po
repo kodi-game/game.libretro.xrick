@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "XRick is an open source implementation of the legendary game [I]Rick Dangerous[/I]."
 msgstr "XRick è un'implementazione open source del leggendario gioco [I]Rick Dangerous[/I]."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Crop Borders"
 msgstr ""
@@ -44,3 +40,7 @@ msgstr ""
 msgctxt "#30004"
 msgid "Cheat: Expose Mode"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
