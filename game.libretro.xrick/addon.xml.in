@@ -27,6 +27,7 @@
 		<summary lang="da_DK">Rick Dangerous (XRick)</summary>
 		<summary lang="en_GB">Rick Dangerous (XRick)</summary>
 		<summary lang="es_ES">Rick Dangerous (XRick)</summary>
+		<summary lang="ga">Rick Dangerous (XRick)</summary>
 		<summary lang="it_IT">Rick Dangerous (XRick)</summary>
 		<summary lang="sv_SE">Rick Dangerous (XRick)</summary>
 		<summary lang="zh_CN">步步杀机（XRick）</summary>
@@ -35,6 +36,7 @@
 		<description lang="de_DE">XRick ist eine quelloffene Implementierung des legendären Spiels [I]Rick Dangerous[/I].</description>
 		<description lang="en_GB">XRick is an open source implementation of the legendary game [I]Rick Dangerous[/I].</description>
 		<description lang="es_ES">XRick es una implementación de código abierto del legendario juego [I]Rick Dangerous[/I].</description>
+		<description lang="ga">Is cur i bhfeidhm foinse oscailte den chluiche finscéalach [I]Rick Dangerous[/I] é XRick.</description>
 		<description lang="it_IT">XRick è un&apos;implementazione open source del leggendario gioco [I]Rick Dangerous[/I].</description>
 		<description lang="ko_KR">XRick은 전설적인 게임 [I]Rick Dangerous[/I]의 오픈 소스 구현입니다.</description>
 		<description lang="sv_SE">XRick är en implementering med öppen källkod av det legendariska spelet [I]Rick Dangerous[/I].</description>
