@@ -1,1 +1,1 @@
-xrick https://github.com/libretro/xrick-libretro/archive/34e4c3fc8a679d0209debc3738dc7264d3112a03.tar.gz
+xrick https://github.com/libretro/xrick-libretro/archive/9fcdd91d1835a2bb66f87af9a3986b6f19aa2390.tar.gz
