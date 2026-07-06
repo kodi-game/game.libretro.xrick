@@ -25,6 +25,7 @@
 			<fanart>resources/fanart.jpg</fanart>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Rick Dangerous (XRick)</summary>
 		<summary lang="da_DK">Rick Dangerous (XRick)</summary>
 		<summary lang="en_GB">Rick Dangerous (XRick)</summary>
 		<summary lang="es_ES">Rick Dangerous (XRick)</summary>
@@ -34,6 +35,7 @@
 		<summary lang="sv_SE">Rick Dangerous (XRick)</summary>
 		<summary lang="zh_CN">步步杀机（XRick）</summary>
 		<description lang="ast_ES">XRick ye una implementación de códigu abiertu del xuegu llexendariu [I]Rick Dangerous[/I].</description>
+		<description lang="cs_CZ">XRick je open source implementace legendární hry [I]Rick Dangerous[/I].</description>
 		<description lang="da_DK">XRick er en open source-implementering af det legendariske spil [I]Rick Dangerous[/I].</description>
 		<description lang="de_DE">XRick ist eine quelloffene Implementierung des legendären Spiels [I]Rick Dangerous[/I].</description>
 		<description lang="en_GB">XRick is an open source implementation of the legendary game [I]Rick Dangerous[/I].</description>
