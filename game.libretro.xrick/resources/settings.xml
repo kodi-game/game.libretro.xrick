@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-	<category label="128">
-		<setting label="30001" type="select" id="xrick_crop_borders" values="enabled|disabled" default="enabled"/>
-		<setting label="30002" type="select" id="xrick_cheat1" values="disabled|enabled" default="disabled"/>
-		<setting label="30003" type="select" id="xrick_cheat2" values="disabled|enabled" default="disabled"/>
-		<setting label="30004" type="select" id="xrick_cheat3" values="disabled|enabled" default="disabled"/>
-	</category>
+<settings version="1">
+	<section id="game.libretro.xrick">
+		<category id="general" label="128">
+			<group id="1">
+				<setting id="xrick_crop_borders" type="string" label="30001" help="30005">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option>enabled</option>
+							<option>disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+		<category id="cheats" label="30006" help="30007">
+			<group id="1">
+				<setting id="xrick_cheat1" type="string" label="30002" help="30008">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="xrick_cheat2" type="string" label="30003" help="30009">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="xrick_cheat3" type="string" label="30004" help="30010">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option>disabled</option>
+							<option>enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+	</section>
 </settings>
