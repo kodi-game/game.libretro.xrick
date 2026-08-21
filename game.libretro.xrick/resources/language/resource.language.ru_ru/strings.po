@@ -41,6 +41,30 @@ msgctxt "#30004"
 msgid "Cheat: Expose Mode"
 msgstr "Чит: Режим Expose"
 
+msgctxt "#30005"
+msgid "Remove the 32 pixels of empty padding either side of the game screen. Note: Cheat mode indicators will only be shown if cropping is disabled."
+msgstr ""
+
+msgctxt "#30006"
+msgid "Cheats"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Configure internal trainer/cheat modes provided by the game engine."
+msgstr ""
+
+msgctxt "#30008"
+msgid "Always have 6 bullets, 6 dynamite stick, 6 lives."
+msgstr ""
+
+msgctxt "#30009"
+msgid "Nothing can kill Rick. Use with care. May break the game."
+msgstr ""
+
+msgctxt "#30010"
+msgid "Highlight all entities on the game map."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Настройки"
