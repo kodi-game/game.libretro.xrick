@@ -64,3 +64,15 @@ msgstr "Nic nemůže Ricka zabít. Používejte opatrně. Hra se může rozbít.
 msgctxt "#30010"
 msgid "Highlight all entities on the game map."
 msgstr "Zvýraznit všechny objekty na herní mapě."
+
+msgctxt "#30011"
+msgid "Trainer Mode"
+msgstr "Režim traineru"
+
+msgctxt "#30012"
+msgid "Invulnerability Mode"
+msgstr "Režim nezranitelnosti"
+
+msgctxt "#30013"
+msgid "Expose Mode"
+msgstr "Režim odhalení"

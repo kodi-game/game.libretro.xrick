@@ -18,7 +18,7 @@
 		</category>
 		<category id="cheats" label="30006" help="30007">
 			<group id="1">
-				<setting id="xrick_cheat1" type="string" label="30002" help="30008">
+				<setting id="xrick_cheat1" type="string" label="30011" help="30008">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -29,7 +29,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="xrick_cheat2" type="string" label="30003" help="30009">
+				<setting id="xrick_cheat2" type="string" label="30012" help="30009">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -40,7 +40,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="xrick_cheat3" type="string" label="30004" help="30010">
+				<setting id="xrick_cheat3" type="string" label="30013" help="30010">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>

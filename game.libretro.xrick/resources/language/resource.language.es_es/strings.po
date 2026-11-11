@@ -65,6 +65,18 @@ msgctxt "#30010"
 msgid "Highlight all entities on the game map."
 msgstr ""
 
+msgctxt "#30011"
+msgid "Trainer Mode"
+msgstr "Modo Entrenador"
+
+msgctxt "#30012"
+msgid "Invulnerability Mode"
+msgstr "Modo Invulnerabilidad"
+
+msgctxt "#30013"
+msgid "Expose Mode"
+msgstr "Modo Exposición"
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Ajustes"

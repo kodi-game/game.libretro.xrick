@@ -65,6 +65,18 @@ msgctxt "#30010"
 msgid "Highlight all entities on the game map."
 msgstr "Markera alla objekt på spelkartan."
 
+msgctxt "#30011"
+msgid "Trainer Mode"
+msgstr "Träningsläge"
+
+msgctxt "#30012"
+msgid "Invulnerability Mode"
+msgstr "Osårbar"
+
+msgctxt "#30013"
+msgid "Expose Mode"
+msgstr "Exponeringsläge"
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
