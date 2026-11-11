@@ -29,18 +29,6 @@ msgctxt "#30001"
 msgid "Crop Borders"
 msgstr "Beskär ramar"
 
-msgctxt "#30002"
-msgid "Cheat: Trainer Mode"
-msgstr "Fusk: Träningsläge"
-
-msgctxt "#30003"
-msgid "Cheat: Invulnerability Mode"
-msgstr "Fusk: Osårbar"
-
-msgctxt "#30004"
-msgid "Cheat: Expose Mode"
-msgstr "Fusk: Exponeringsläge"
-
 msgctxt "#30005"
 msgid "Remove the 32 pixels of empty padding either side of the game screen. Note: Cheat mode indicators will only be shown if cropping is disabled."
 msgstr "Ta bort de 32 bildpunkterna med tom utfyllnad på var sida om spelskärmen. Obs: indikatorer för fuskläge visas endast när beskärning är inaktiverad."
@@ -76,6 +64,18 @@ msgstr "Osårbar"
 msgctxt "#30013"
 msgid "Expose Mode"
 msgstr "Exponeringsläge"
+
+#~ msgctxt "#30002"
+#~ msgid "Cheat: Trainer Mode"
+#~ msgstr "Fusk: Träningsläge"
+
+#~ msgctxt "#30003"
+#~ msgid "Cheat: Invulnerability Mode"
+#~ msgstr "Fusk: Osårbar"
+
+#~ msgctxt "#30004"
+#~ msgid "Cheat: Expose Mode"
+#~ msgstr "Fusk: Exponeringsläge"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

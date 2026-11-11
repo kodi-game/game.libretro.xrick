@@ -29,18 +29,6 @@ msgctxt "#30001"
 msgid "Crop Borders"
 msgstr "Ritaglio bordi"
 
-msgctxt "#30002"
-msgid "Cheat: Trainer Mode"
-msgstr "Trucco: modalità trainer"
-
-msgctxt "#30003"
-msgid "Cheat: Invulnerability Mode"
-msgstr "Trucco: modalità invulnerabilità"
-
-msgctxt "#30004"
-msgid "Cheat: Expose Mode"
-msgstr "Trucco: modalità mappa visibile"
-
 msgctxt "#30005"
 msgid "Remove the 32 pixels of empty padding either side of the game screen. Note: Cheat mode indicators will only be shown if cropping is disabled."
 msgstr "Rimuove i 32 pixel di margine vuoto su entrambi i lati dello schermo di gioco. Nota: gli indicatori della modalità trucchi verranno mostrati solo se il ritaglio è disattivato."
@@ -76,6 +64,18 @@ msgstr "Modalità invulnerabilità"
 msgctxt "#30013"
 msgid "Expose Mode"
 msgstr "Modalità mappa visibile"
+
+#~ msgctxt "#30002"
+#~ msgid "Cheat: Trainer Mode"
+#~ msgstr "Trucco: modalità trainer"
+
+#~ msgctxt "#30003"
+#~ msgid "Cheat: Invulnerability Mode"
+#~ msgstr "Trucco: modalità invulnerabilità"
+
+#~ msgctxt "#30004"
+#~ msgid "Cheat: Expose Mode"
+#~ msgstr "Trucco: modalità mappa visibile"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

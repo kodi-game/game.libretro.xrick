@@ -29,18 +29,6 @@ msgctxt "#30001"
 msgid "Crop Borders"
 msgstr "Oříznout okraje"
 
-msgctxt "#30002"
-msgid "Cheat: Trainer Mode"
-msgstr "Cheat: režim traineru"
-
-msgctxt "#30003"
-msgid "Cheat: Invulnerability Mode"
-msgstr "Cheat: režim nezranitelnosti"
-
-msgctxt "#30004"
-msgid "Cheat: Expose Mode"
-msgstr "Cheat: režim odhalení"
-
 msgctxt "#30005"
 msgid "Remove the 32 pixels of empty padding either side of the game screen. Note: Cheat mode indicators will only be shown if cropping is disabled."
 msgstr "Odstranit 32 pixelů prázdného okraje po obou stranách herní obrazovky. Poznámka: Indikátory režimu cheatů se zobrazí pouze při vypnutém oříznutí."
@@ -76,3 +64,15 @@ msgstr "Režim nezranitelnosti"
 msgctxt "#30013"
 msgid "Expose Mode"
 msgstr "Režim odhalení"
+
+#~ msgctxt "#30002"
+#~ msgid "Cheat: Trainer Mode"
+#~ msgstr "Cheat: režim traineru"
+
+#~ msgctxt "#30003"
+#~ msgid "Cheat: Invulnerability Mode"
+#~ msgstr "Cheat: režim nezranitelnosti"
+
+#~ msgctxt "#30004"
+#~ msgid "Cheat: Expose Mode"
+#~ msgstr "Cheat: režim odhalení"

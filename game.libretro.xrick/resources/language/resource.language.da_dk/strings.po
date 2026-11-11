@@ -29,18 +29,6 @@ msgctxt "#30001"
 msgid "Crop Borders"
 msgstr "Beskær kanter"
 
-msgctxt "#30002"
-msgid "Cheat: Trainer Mode"
-msgstr "Snyd: Træningstilstand"
-
-msgctxt "#30003"
-msgid "Cheat: Invulnerability Mode"
-msgstr "Snyd: Usårlighedstilstand"
-
-msgctxt "#30004"
-msgid "Cheat: Expose Mode"
-msgstr "Snyd: Afsløringstilstand"
-
 msgctxt "#30005"
 msgid "Remove the 32 pixels of empty padding either side of the game screen. Note: Cheat mode indicators will only be shown if cropping is disabled."
 msgstr ""
@@ -76,6 +64,18 @@ msgstr "Usårlighedstilstand"
 msgctxt "#30013"
 msgid "Expose Mode"
 msgstr "Afsløringstilstand"
+
+#~ msgctxt "#30002"
+#~ msgid "Cheat: Trainer Mode"
+#~ msgstr "Snyd: Træningstilstand"
+
+#~ msgctxt "#30003"
+#~ msgid "Cheat: Invulnerability Mode"
+#~ msgstr "Snyd: Usårlighedstilstand"
+
+#~ msgctxt "#30004"
+#~ msgid "Cheat: Expose Mode"
+#~ msgstr "Snyd: Afsløringstilstand"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
